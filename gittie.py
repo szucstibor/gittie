@@ -4,3 +4,5 @@ def introduce():
 
 def joke():
     print("KEK!")
+def add(a, b): 
+    return(a+b)
