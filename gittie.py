@@ -8,3 +8,5 @@ def joke():
     print("KEK!")
 def add(a, b): 
     return(a+b)
+def shout():
+    print("LUL")
